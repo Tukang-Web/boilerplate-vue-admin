@@ -1,0 +1,113 @@
+{
+  "tukangweb": "Tukang Web",
+  "navbar": {
+    "search": {
+      "text": "Search..."
+    },
+    "dropdown": {
+      "account": {
+        "text": "Account",
+        "list": {
+          "profile": "Profile",
+          "mywallet": "My Wallet",
+          "settings": "Settings",
+          "lockscreen": "Lock screen",
+          "logout": "Logout"
+        }
+      }
+    }
+  },
+  "menuitems": {
+    "menu": {
+      "text": "Menu"
+    },
+    "dashboard": {
+      "text": "Dashboard"
+    },
+    "account-management": {
+      "text": "Manajemen Akun",
+      "roles": "Role",
+      "permissions": "Hak Akses"
+    }
+  },
+  "role": {
+    "create": {
+      "title": "Tambah Role",
+      "name": "Nama Role",
+      "permissions": "Hak Akses",
+      "submit": "Simpan",
+      "back": "Kembali"
+    },
+    "edit": {
+      "title": "Edit Role",
+      "name": "Nama Role",
+      "permission": "Hak Akses",
+      "submit": "Simpan"
+    },
+    "list": {
+      "title": "Daftar Role",
+      "name": "Nama Role",
+      "permissions": "Hak Akses",
+      "actions": "Aksi",
+      "create": "Tambah Role",
+      "edit": "Ubah",
+      "detail": "Detail",
+      "delete": "Hapus",
+      "search": "Cari..."
+    },
+    "detail": {
+      "title": "Detail Role",
+      "name": "Nama Role",
+      "permissions": "Hak Akses",
+      "back": "Kembali"
+    }
+  },
+  "permission": {
+    "create": {
+      "title": "Tambah Hak Akses",
+      "name": "Nama Hak Akses",
+      "submit": "Simpan",
+      "back": "Kembali"
+    },
+    "edit": {
+      "title": "Edit Hak Akses",
+      "name": "Nama Hak Akses",
+      "submit": "Ubah",
+      "back": "Kembali"
+    },
+    "list": {
+      "title": "Daftar Hak Akses",
+      "name": "Nama Hak Akses",
+      "actions": "Aksi",
+      "create": "Tambah Hak Akses",
+      "edit": "Ubah",
+      "detail": "Detail",
+      "delete": "Hapus",
+      "search": "Cari..."
+    },
+    "detail": {
+      "title": "Detail Hak Akses",
+      "name": "Nama Hak Akses",
+      "back": "Kembali"
+    }
+  },
+  "alert": {
+    "success": "Berhasil",
+    "error": "Gagal",
+    "info": "Informasi",
+    "warning": "Peringatan",
+    "logout": {
+      "title": "Logout",
+      "text": "Anda akan keluar dari aplikasi",
+      "confirm": "Ya, Keluar",
+      "cancel": "Batal"
+    },
+    "delete": {
+      "title": "Hapus",
+      "text": "Anda yakin ingin menghapus data ini?, data yang dihapus tidak dapat dikembalikan",
+      "confirm": "Ya, Hapus",
+      "cancel": "Batal",
+      "success": "Data berhasil dihapus"
+    }
+  }
+}

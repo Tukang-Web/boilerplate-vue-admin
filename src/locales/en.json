@@ -1,0 +1,118 @@
+{
+    "tukangweb": "Tukang Web",
+    "navbar": {
+        "search": {
+            "text": "Search..."
+        },
+        "dropdown": {
+            "notification": {
+                "text": "Notifications",
+                "subtext": "View all notifications",
+                "button": "View all"
+            },
+            "account": {
+                "text": "Account",
+                "list": {
+                    "profile": "Profile",
+                    "mywallet": "My Wallet",
+                    "settings": "Settings",
+                    "lockscreen": "Lock screen",
+                    "logout": "Logout"
+                }
+            }
+        }
+    },
+    "menuitems": {
+        "menu": {
+            "text": "Menu"
+        },
+        "dashboard": {
+            "text": "Dashboard"
+        },
+        "account-management": {
+            "text": "Account Management",
+            "roles": "Roles",
+            "permissions": "Permissions"
+        }
+    },
+    "role": {
+        "create": {
+            "title": "Add Role",
+            "name": "Role Name",
+            "permissions": "Permissions",
+            "submit": "Save",
+            "back": "Back"
+        },
+        "edit": {
+            "title": "Edit Role",
+            "name": "Role Name",
+            "permission": "Permissions",
+            "button": "Save"
+        },
+        "list": {
+            "title": "Role List",
+            "name": "Role Name",
+            "permissions": "Permissions",
+            "actions": "Actions",
+            "create": "Add Role",
+            "edit": "Edit",
+            "detail": "Detail",
+            "delete": "Delete",
+            "search": "Search..."
+        },
+        "detail": {
+            "title": "Role Detail",
+            "name": "Role Name",
+            "permissions": "Permissions",
+            "back": "Back"
+        }
+    },
+    "permission": {
+        "create": {
+            "title": "Add Permission",
+            "name": "Permission Name",
+            "submit": "Save",
+            "back": "Back"
+        },
+        "edit": {
+            "title": "Edit Permission",
+            "name": "Permission Name",
+            "submit": "Save",
+            "back": "Back"
+        },
+        "list": {
+            "title": "Permission List",
+            "name": "Permission Name",
+            "actions": "Actions",
+            "create": "Add Permission",
+            "edit": "Edit",
+            "detail": "Detail",
+            "delete": "Delete",
+            "search": "Search..."
+        },
+        "detail": {
+            "title": "Permission Detail",
+            "name": "Permission Name",
+            "back": "Back"
+        }
+    },
+    "alert": {
+        "success": "Success",
+        "error": "Error",
+        "info": "Info",
+        "warning": "Warning",
+        "logout": {
+            "title": "Logout",
+            "text": "You will log out of the application",
+            "confirm": "Yes, Logout",
+            "cancel": "Cancel"
+        },
+        "delete": {
+            "title": "Delete",
+            "text": "Are you sure you want to delete this data? Deleted data cannot be restored",
+            "confirm": "Yes, Delete",
+            "cancel": "Cancel",
+            "success": "Data successfully deleted"
+        }
+    }
+}
